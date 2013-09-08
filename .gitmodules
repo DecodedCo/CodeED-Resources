@@ -1,3 +1,6 @@
 [submodule "resources/photo-quiz"]
 	path = resources/photo-quiz
 	url = git@github.com:DecodedCo/CodeEd-Photo-Quiz.git
+[submodule "assets/common"]
+	path = assets/common
+	url = git@github.com:DecodedCo/document-resources.git
